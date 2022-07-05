@@ -1,0 +1,7 @@
+O Spring Boot é um framework Open Source que nasceu a partir do Spring framework e veio para facilitar as configurações iniciais de um projeto. Mas, vamos voltar um pouco mais na história…
+
+Antes de ambos os frameworks nascerem, as pessoas desenvolvedoras enfrentavam uma grande dor: a perda de tempo configurando projeto ao invés de desenvolver. Tendo isso em vista, em 2003, Rod Johnson criou o Spring framework, que veio com o intuito de simplificar essas configurações para aplicações web.
+
+Isso foi muito benéfico na época, mas logo notaram que, se a aplicação fosse muito grande, as configurações ficavam grandes e complexas também, pois o Spring Framework não isenta configurações, ele apenas simplifica.
+
+Foi então que surgiu o Spring Boot, que fez decolar a plataforma Spring, pois ele nada mais é que uma extensão do Spring Framework, ou seja, ele tem tudo o que existe no outro, de forma embutida. Ele já traz um servidor embarcado e todas as configurações iniciais prontas.
